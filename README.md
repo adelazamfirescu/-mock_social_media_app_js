@@ -11,3 +11,5 @@ Fiddle available: [link](https://jsfiddle.net/adelavdf/pLw2xjf7/3/)
 3. install LiveServer (if you don't have it already)
 4. click "Go Live"
 5. the website should open in browser
+
+Technologies used: HTML, CSS, Vanilla JS, Bootstrap, Axios
